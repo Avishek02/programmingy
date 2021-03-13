@@ -1,50 +1,59 @@
 ---
-title: Basic Rules For Walking In The Mountains
-date: '2019-04-09'
+title: "!!Basic Rules For Walking In The Mountains!!!"
+date: 2019-04-09
 thumb_img_path: images/1.jpg
 thumb_img_alt: A man standing on a rock cliff overlooking a river
 content_img_path: images/1.jpg
-excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
+excerpt: Hiking is sometimes referred to as such. This specifically refers to difficult
+  walking through dense forest, undergrowth, or bushes, where forward progress requires
+  pushing vegetation aside.
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: Basic Rules For Walking In The Mountains
-  description: >-
-    Hiking refers to difficult walking through dense forest, undergrowth, or
-    bushes.
+  description: Hiking refers to difficult walking through dense forest, undergrowth,
+    or bushes.
   extra:
-    - name: 'og:type'
-      value: article
-      keyName: property
-    - name: 'og:title'
-      value: Basic Rules For Walking In The Mountains
-      keyName: property
-    - name: 'og:description'
-      value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
-        bushes.
-      keyName: property
-    - name: 'og:image'
-      value: images/1.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Basic Rules For Walking In The Mountains
-    - name: 'twitter:description'
-      value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
-        bushes.
-    - name: 'twitter:image'
-      value: images/1.jpg
-      relativeUrl: true
+  - name: og:type
+    value: article
+    keyName: property
+    relativeUrl: false
+  - name: og:title
+    value: Basic Rules For Walking In The Mountains
+    keyName: property
+    relativeUrl: false
+  - name: og:description
+    value: Hiking refers to difficult walking through dense forest, undergrowth, or
+      bushes.
+    keyName: property
+    relativeUrl: false
+  - name: og:image
+    value: images/1.jpg
+    keyName: property
+    relativeUrl: true
+  - name: twitter:card
+    value: summary_large_image
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:title
+    value: Basic Rules For Walking In The Mountains
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:description
+    value: Hiking refers to difficult walking through dense forest, undergrowth, or
+      bushes.
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:image
+    value: images/1.jpg
+    relativeUrl: true
+    keyName: ''
+  robots: []
 template: post
----
+subtitle: ''
+hide_header: false
 
+---
 ![Hiking](/images/2.jpg)
 
 In the United States, Canada, the Republic of Ireland, and United Kingdom, **hiking** refers to walking outdoors on a trail, or off trail, for recreational purposes. A day hike refers to a hike that can be completed in a single day. However, in the United Kingdom, the word walking is also used, as well as rambling, while walking in mountainous areas is called hillwalking. In Northern England, Including the Lake District and Yorkshire Dales, fellwalking describes hill or mountain walks, as fell is the common word for both features there.
