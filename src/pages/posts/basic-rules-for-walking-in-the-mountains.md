@@ -51,7 +51,7 @@ seo:
   robots: []
 template: post
 subtitle: ''
-hide_header: true
+hide_header: false
 
 ---
 ![Hiking](/images/2.jpg)
