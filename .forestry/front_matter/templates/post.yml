@@ -55,6 +55,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/posts/basic-post.md
 - src/pages/posts/basic-rules-for-walking-in-the-mountains.md
 - src/pages/posts/fox-village-in-japan.md
 - src/pages/posts/fragments-of-iceland.md
