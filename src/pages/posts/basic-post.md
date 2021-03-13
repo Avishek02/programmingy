@@ -6,7 +6,7 @@ seo:
   robots: []
   extra: []
 template: post
-title: Basic post
+title: Basic post !!!
 subtitle: ''
 date: 2021-03-13T06:41:00Z
 thumb_img_path: "/images/contact.jpg"
