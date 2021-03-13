@@ -72,6 +72,7 @@ seo:
     value: images/contact.jpg
     relativeUrl: true
 template: contact
+subtitle: This is a form
 
 ---
 To get in touch fill the form below.
