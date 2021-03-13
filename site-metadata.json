@@ -6,7 +6,7 @@
     "template": "header",
     "title": "Programmingy",
     "tagline": " Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
-    "logo_img": "/images/about.jpg",
+    "logo_img": "",
     "logo_img_alt": "programmingy",
     "background_img": "images/header-bg.jpg",
     "has_nav": true,
