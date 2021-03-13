@@ -40,8 +40,7 @@ form_fields:
   name: consent
   label: I understand that this form is storing my submitted information so I can
     be contacted.
-  options:
-  - now
+  options: []
 submit_label: Send Message
 seo:
   type: stackbit_page_meta
@@ -72,7 +71,7 @@ seo:
     value: images/contact.jpg
     relativeUrl: true
 template: contact
-subtitle: This is a form
+subtitle: ''
 
 ---
 To get in touch fill the form below.
