@@ -55,6 +55,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/posts/first-class.md
 - src/pages/posts/জাভাস্ক্রিপ্টে-নাম্বার-মেথড.md
 - src/pages/posts/জাভাস্ক্রিপ্টে-পিউর-ফাংশন.md
 - src/pages/posts/জাভাস্ক্রিপ্টের-এরিথমেটিক-অপারেটর-পর্ব-১.md
