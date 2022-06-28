@@ -9,7 +9,7 @@
     "logo_img": "",
     "logo_img_alt": "programmingy",
     "background_img": "images/header-bg.jpg",
-    "has_nav": true,
+    "has_nav": false,
     "nav_links": [
       {
         "type": "action",
@@ -32,7 +32,7 @@
         "no_follow": false
       }
     ],
-    "has_social": true,
+    "has_social": false,
     "social_links": [
       {
         "type": "action",
