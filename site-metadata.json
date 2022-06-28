@@ -8,62 +8,14 @@
     "tagline": " Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
     "logo_img": "",
     "logo_img_alt": "programmingy",
-    "background_img": "images/header-bg.jpg",
+    "background_img": "/images/style-guide.jpg",
     "has_nav": false,
     "nav_links": [
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Home",
-        "url": "/",
-        "style": "link",
-        "icon_class": "",
-        "new_window": false,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Contact",
-        "url": "/contact",
-        "style": "link",
-        "icon_class": "",
-        "new_window": false,
-        "no_follow": false
-      }
+
     ],
     "has_social": false,
     "social_links": [
-      {
-        "type": "action",
-        "template": "action",
-        "label": "GitHub",
-        "url": "https://github.com/",
-        "style": "icon",
-        "icon_class": "github",
-        "new_window": true,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "LinkedIn",
-        "url": "https://www.linkedin.com/",
-        "style": "icon",
-        "icon_class": "linkedin",
-        "new_window": true,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "DEV",
-        "url": "https://dev.to/",
-        "style": "icon",
-        "icon_class": "dev",
-        "new_window": true,
-        "no_follow": false
-      }
+
     ]
   },
   "footer": {
